@@ -11,7 +11,7 @@ import 'package:path_provider/path_provider.dart';
 typedef void OnError(Exception exception);
 
 const kUrl =
-    "https://www.mediacollege.com/downloads/sound-effects/nature/forest/rainforest-ambient.mp3";
+    "http://win.web.re01.sycdn.kuwo.cn/b807040deffdddd1744d75ea39b6e54a/600644da/resource/n1/52/47/860300180.mp3";
 
 void main() {
   runApp(MaterialApp(home: Scaffold(body: AudioApp())));
